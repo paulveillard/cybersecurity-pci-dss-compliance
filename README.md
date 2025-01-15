@@ -8,17 +8,7 @@ An ongoing & curated collection of awesome software best practices and technique
 
 
 ## `Table of Contents`
-- [Vulnerability Management Process](#vulnerability-management-process)
-- [Vulnerability Management Framework](#vulnerability-management-framework)
-  - [Identifying Vulnerabilities](#1-identifying-vulnerabilities)
-  - [Evaluating Vulnerabilities](#2-evaluating-vulnerabilities)
-  - [Treating Vulnerabilities](#3-treating-vulnerabilities)
-    - [Remediation](#)
-    - [Mitigation](#)
-    - [Acceptance](#)
-  - [Reporting Vulnerabilities](#4-reporting-vulnerabilities)
-- [Vulnerability Management Lifecycle](#vulnerability-management-lifecycle)
-- [Vulnerability Mangement Solutions](#vulnerability-management-solutions)
+- 
 
 
 ## `What Are PCI Security Standards ?`
