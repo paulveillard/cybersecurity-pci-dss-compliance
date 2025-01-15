@@ -10,19 +10,19 @@ Here are some of the common challenges that organizations face when achieving PC
 
 ## 2 - Implementing access controls:
 
-PCI DSS mandates strong access controls to prevent unauthorized access to CHD. This involves using the least privilege principle, ensuring that users and services have the minimum access required to perform their tasks and nothing more.
-Implement multi-factor authentication for all users accessing CHD.
-Regularly review and audit access controls and monitor access logs for suspicious activity using tools like Cloud Audit Logging.
+- PCI DSS mandates strong access controls to prevent unauthorized access to CHD. This involves using the least privilege principle, ensuring that users and services have the minimum access required to perform their tasks and nothing more.
+- Implement multi-factor authentication for all users accessing CHD.
+- Regularly review and audit access controls and monitor access logs for suspicious activity using tools like Cloud Audit Logging.
 
 ## 3 - Maintaining a secure network:
 
-A secure network is paramount to protect CHD from unauthorized access. Utilize GCP's Virtual Private Cloud (VPC) for network isolation and configure VPC firewalls correctly to ensure only necessary traffic is allowed.
-Implement additional security measures like intrusion detection systems.
+- A secure network is paramount to protect CHD from unauthorized access. Utilize GCP's Virtual Private Cloud (VPC) for network isolation and configure VPC firewalls correctly to ensure only necessary traffic is allowed.
+- Implement additional security measures like intrusion detection systems.
 
 
 ## 4 - Testing and monitoring:
 
-Regularly test and monitor systems and networks for vulnerabilities. This involves conducting periodic penetration tests, vulnerability scans, and log reviews to ensure the security posture remains robust.
+- Regularly test and monitor systems and networks for vulnerabilities. This involves conducting periodic penetration tests, vulnerability scans, and log reviews to ensure the security posture remains robust.
 
 # Best Practices for Overcoming Challenges
 
