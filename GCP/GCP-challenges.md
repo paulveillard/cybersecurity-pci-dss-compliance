@@ -4,9 +4,9 @@ Here are some of the common challenges that organizations face when achieving PC
 
 ## 1 - Securing customer payment data:
 
-Cardholder data (CHD) must be protected both "at rest" and "in transit". This involves encrypting CHD using robust encryption mechanisms. Google Cloud Platform provides automatic encryption at rest for data stored in its services, but it's essential to ensure encryption in transit, especially when data moves between services or outside of GCP.
-Implement strong passwords and authentication methods.
-Set up stringent access controls to restrict who can access CHD.
+- Cardholder data (CHD) must be protected both "at rest" and "in transit". This involves encrypting CHD using robust encryption mechanisms. Google Cloud Platform provides automatic encryption at rest for data stored in its services, but it's essential to ensure encryption in transit, especially when data moves between services or outside of GCP.
+- Implement strong passwords and authentication methods.
+- Set up stringent access controls to restrict who can access CHD.
 
 ## 2 - Implementing access controls:
 
