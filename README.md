@@ -1,1 +1,1 @@
-# cybersecurity-pci-dss-compliance
+# PCI Data Security Standard (PCI DSS)
