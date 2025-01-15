@@ -28,34 +28,35 @@ Regularly test and monitor systems and networks for vulnerabilities. This involv
 
 ## 1 - Use Google Cloud's built-in security features:
 
-Leverage the variety of security features offered by Google Cloud, such as Cloud KMS for encryption, Cloud Identity and Access Management (IAM) for access controls, and Cloud Armor for network protection. Remember, while GCP provides these tools, it operates on a shared responsibility model. It's up to you to configure and use them correctly.
+- Leverage the variety of security features offered by Google Cloud, such as Cloud KMS for encryption, Cloud Identity and Access Management (IAM) for access controls, and Cloud Armor for network protection. Remember, while GCP provides these tools, it operates on a shared responsibility model. It's up to you to configure and use them correctly.
 
 ## 2 - Follow Google's PCI DSS documentation:
 
-Google offers comprehensive documentation to assist in achieving PCI DSS compliance on GCP. While these resources are invaluable, achieving and maintaining PCI DSS compliance is an ongoing process that requires regular audits, reviews, and updates.
+- Google offers comprehensive documentation to assist in achieving PCI DSS compliance on GCP. While these resources are invaluable, achieving and maintaining PCI DSS compliance is an ongoing process that requires regular audits, reviews, and updates.
 
 ## 3 - Work with a qualified security assessor:
 
-Engage with a Qualified Security Assessor (QSA) to assess your environment, identify any compliance gaps, and provide guidance on implementing the necessary security controls.
+- Engage with a Qualified Security Assessor (QSA) to assess your environment, identify any compliance gaps, and provide guidance on implementing the necessary security controls.
 
 # Addressing Specific Issues
 
 ### 1 - Securing customer payment data:
 
-Use Cloud KMS to encrypt CHD both at rest and in transit.
-Implement strong passwords and authentication methods.
-Consider third-party payment gateways that handle CHD, ensuring the data never resides on your infrastructure.
-Use IAM and other GCP tools to establish stringent access controls, ensuring only authorized individuals can access sensitive data.
-Implementing access controls:
+- Use Cloud KMS to encrypt CHD both at rest and in transit.
+- Implement strong passwords and authentication methods.
+- Consider third-party payment gateways that handle CHD, ensuring the data never resides on your infrastructure.
+- Use IAM and other GCP tools to establish stringent access controls, ensuring only authorized individuals can access sensitive data.
 
-### 2 - Adhere to the least privilege principle.
-Implement multi-factor authentication.
-Regularly review and audit access controls, ensuring they remain appropriate and effective. Use tools like Cloud Audit Logging for monitoring.
+### 2 - Implementing access controls:
+
+- Adhere to the least privilege principle.
+- Implement multi-factor authentication.
+- Regularly review and audit access controls, ensuring they remain appropriate and effective. Use tools like Cloud Audit Logging for monitoring.
 Conclusion
 
 Achieving PCI DSS compliance on Google Cloud Platform can be challenging, but with careful planning, the right tools, and a commitment to regular audits and updates, it's entirely feasible. Stay updated with both GCP's features and PCI DSS requirements, as both are subject to change and evolution.
 
-Additional Resources
+# Additional Resources
 
-Google Cloud PCI DSS compliance guide
-PCI DSS official website
+### Google Cloud PCI DSS compliance guide
+### PCI DSS official website
