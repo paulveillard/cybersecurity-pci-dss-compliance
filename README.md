@@ -47,29 +47,32 @@ PCI-DSS Document Library
 
 PCI DSS requirements
 
+![image](https://github.com/user-attachments/assets/79087e3e-d8ce-4cf6-b81b-f0a00df92f59)
+
+
 **Secure your network:**
 > Build and maintain a secure network and systems.
 
-Protect cardholder data: 
+**Protect cardholder data:**
 > Use strong encryption to protect stored data and encrypt data transmission over public networks.
  
-Maintain a vulnerability management program:
+**Maintain a vulnerability management program:**
 > Identify and address vulnerabilities in your systems.
 
-Implement strong access control measures:
+**Implement strong access control measures:**
 > Limit access to sensitive data to authorized personnel.
 
-Regularly monitor and test networks: 
+**Regularly monitor and test networks:**
 > Test your systems to ensure they are secure.
 
-Maintain an information security policy:
+**Maintain an information security policy:**
 > Create and maintain a policy that outlines how you will protect customer data. 
 
-Use and regularly update anti-virus software: 
+**Use and regularly update anti-virus software:** 
 
 > Use software to protect against viruses and other malware.
 
-Create and retain secure systems and applications:
+**Create and retain secure systems and applications:**
 
 > Ensure your systems and applications are secure and up to date.
 
