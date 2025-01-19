@@ -45,6 +45,22 @@ PCI-DSS Document Library
 ## `Requirements`
 > The Payment Card Industry Data Security Standard (PCI DSS) is a set of requirements that ensure companies securely handle credit card information
 
+PCI DSS requirements
+
+**Secure your network:**
+> Build and maintain a secure network and systems. 
+Protect cardholder data: Use strong encryption to protect stored data and encrypt data transmission over public networks. 
+Maintain a vulnerability management program: Identify and address vulnerabilities in your systems. 
+Implement strong access control measures: Limit access to sensitive data to authorized personnel. 
+Regularly monitor and test networks: Test your systems to ensure they are secure. 
+Maintain an information security policy: Create and maintain a policy that outlines how you will protect customer data. 
+Use and regularly update anti-virus software: Use software to protect against viruses and other malware. 
+Create and retain secure systems and applications: Ensure your systems and applications are secure and up to date.
+
+
+
+
+
 ## `Resources`
 
 This folder contains curated links to resources that can aid in your understanding of PCI DSS compliance.
