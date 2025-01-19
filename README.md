@@ -42,7 +42,8 @@ PCI-DSS Document Library
 #### PCI DSS: Twelve IT requirements
 [![](https://i.ytimg.com/vi/HiN93kp6Dgc/hqdefault.jpg)](https://www.youtube.com/watch?v=HiN93kp6Dgc)
 
-## `Resources`
+## `Requirements`
+> The Payment Card Industry Data Security Standard (PCI DSS) is a set of requirements that ensure companies securely handle credit card information
 
 ## `Resources`
 
