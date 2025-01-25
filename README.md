@@ -21,7 +21,7 @@ Other PCI Standards are intended for developers, technology vendors, and solutio
 All PCI Security Standards are developed in conjunction with a global network of payments industry stakeholders.
 
 
-## What is PCI DSS?
+## `What is PCI DSS?`
 PCI DSS is a set of network security and business best practices guidelines adopted by the PCI Security Standards Council to establish a “minimum security standard” to protect customers’ payment card information. The scope of the PCI DSS includes all systems, networks, and applications that process, store, or transmit cardholder data, and also systems that are used to secure and log access to the systems in scope.
 
 
@@ -60,7 +60,7 @@ PCI DSS requirements
 
 This folder contains curated links to resources that can aid in your understanding of PCI DSS compliance.
 
-### Official PCI DSS Documentation
+### `Official PCI DSS Documentation`
 
 - [PCI DSS Version 3.2.1](https://www.pcisecuritystandards.org/documents/PCI_DSS_v3-2-1.pdf)
   - The official PCI DSS document outlining the requirements for securing payment card data.
@@ -68,7 +68,7 @@ This folder contains curated links to resources that can aid in your understandi
 - [PCI DSS Quick Reference Guide](https://www.pcisecuritystandards.org/documents/PCI_DSS_Quick_Reference_Guide.pdf)
   - A concise guide summarizing key points of the PCI DSS standard.
 
-### Recommended Reading
+### `Recommended Reading`
 
 - [PCI DSS Explained: A Comprehensive Guide](https://www.itgovernance.eu/blog/en/a-guide-to-the-4-pci-dss-compliance-levels)
   - An in-depth article providing a comprehensive overview of PCI DSS and its implications.
@@ -76,7 +76,7 @@ This folder contains curated links to resources that can aid in your understandi
 - [Best Practices for PCI DSS Compliance](https://www.bluefin.com/bluefin-news/12-best-practices-pci-dss-compliance/)
   - A whitepaper detailing best practices to achieve and maintain PCI DSS compliance.
 
-### Articles for a Deeper Understanding
+### `Articles for a Deeper Understanding`
 
 - [Understanding PCI DSS Requirements: A Detailed Analysis](https://www.endpointprotector.com/blog/pci-dss-compliance-what-is-pci-dss-requirements-best-practices/)
   - An article breaking down each PCI DSS requirement for a thorough understanding.
@@ -86,7 +86,7 @@ This folder contains curated links to resources that can aid in your understandi
 
 Feel free to explore these resources to enhance your knowledge of PCI DSS compliance.
 
-## License
+## `License`
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
